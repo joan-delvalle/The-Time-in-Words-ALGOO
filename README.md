@@ -1,1 +1,1 @@
-# The-Time-in-Words-ALGOO
+# The-Time-in-Words-ALGOO It converts a given digital time (hours and minutes) into its spoken English form, like “quarter past five” or “twenty minutes to six.” The function timeInWords (currently empty) will contain the logic to translate numbers into words and handle special cases such as “o’clock,” “quarter past,” and “half past.”
